@@ -1,0 +1,13 @@
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.AnaForm.resources
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.NotGoster.resources
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.Properties.Resources.resources
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.Not_Ekle.resources
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\bin\Debug\ajanda.exe.config
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\bin\Debug\ajanda.exe
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\bin\Debug\ajanda.pdb
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.exe
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.pdb
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.Tarihe_Git.resources
